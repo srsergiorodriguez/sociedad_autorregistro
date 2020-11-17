@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sociedad_autorregistro/static/css/main.244015a7.chunk.css",
+    "main.js": "/sociedad_autorregistro/static/js/main.2c35ab56.chunk.js",
+    "main.js.map": "/sociedad_autorregistro/static/js/main.2c35ab56.chunk.js.map",
+    "runtime-main.js": "/sociedad_autorregistro/static/js/runtime-main.de87c4b3.js",
+    "runtime-main.js.map": "/sociedad_autorregistro/static/js/runtime-main.de87c4b3.js.map",
+    "static/js/2.20ddcbf9.chunk.js": "/sociedad_autorregistro/static/js/2.20ddcbf9.chunk.js",
+    "static/js/2.20ddcbf9.chunk.js.map": "/sociedad_autorregistro/static/js/2.20ddcbf9.chunk.js.map",
+    "static/js/3.c0290695.chunk.js": "/sociedad_autorregistro/static/js/3.c0290695.chunk.js",
+    "static/js/3.c0290695.chunk.js.map": "/sociedad_autorregistro/static/js/3.c0290695.chunk.js.map",
+    "index.html": "/sociedad_autorregistro/index.html",
+    "static/css/main.244015a7.chunk.css.map": "/sociedad_autorregistro/static/css/main.244015a7.chunk.css.map",
+    "static/js/2.20ddcbf9.chunk.js.LICENSE.txt": "/sociedad_autorregistro/static/js/2.20ddcbf9.chunk.js.LICENSE.txt",
+    "static/media/guydebord.d11de218.gif": "/sociedad_autorregistro/static/media/guydebord.d11de218.gif",
+    "static/media/hamburguesa.d9b6aad0.png": "/sociedad_autorregistro/static/media/hamburguesa.d9b6aad0.png",
+    "static/media/honneur.52e1635e.jpg": "/sociedad_autorregistro/static/media/honneur.52e1635e.jpg",
+    "static/media/perro.2104e0ca.png": "/sociedad_autorregistro/static/media/perro.2104e0ca.png",
+    "static/media/pizza.664801c2.png": "/sociedad_autorregistro/static/media/pizza.664801c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de87c4b3.js",
+    "static/js/2.20ddcbf9.chunk.js",
+    "static/css/main.244015a7.chunk.css",
+    "static/js/main.2c35ab56.chunk.js"
+  ]
+}
